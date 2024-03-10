@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MysoftWare\\class\\test37\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E51DF-5000-4E5C-877A-A8B1BA6A7BF7}|test37\\test37.vcxproj|D:\\MysoftWare\\class\\test37\\test37\\test37.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2E51DF-5000-4E5C-877A-A8B1BA6A7BF7}|test37\\test37.vcxproj|solutionrelative:test37\\test37.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E51DF-5000-4E5C-877A-A8B1BA6A7BF7}|test37\\test37.vcxproj|D:\\MysoftWare\\class\\test37\\test37\\test37.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2E51DF-5000-4E5C-877A-A8B1BA6A7BF7}|test37\\test37.vcxproj|solutionrelative:test37\\test37.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2E51DF-5000-4E5C-877A-A8B1BA6A7BF7}|test37\\test37.vcxproj|D:\\MysoftWare\\class\\test37\\test37\\test37.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2E51DF-5000-4E5C-877A-A8B1BA6A7BF7}|test37\\test37.vcxproj|solutionrelative:test37\\test37.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test37.2.c",
+              "DocumentMoniker": "D:\\MysoftWare\\class\\test37\\test37\\test37.2.c",
+              "RelativeDocumentMoniker": "test37\\test37.2.c",
+              "ToolTip": "D:\\MysoftWare\\class\\test37\\test37\\test37.2.c",
+              "RelativeToolTip": "test37\\test37.2.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-01T07:34:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test37.1.c",
+              "DocumentMoniker": "D:\\MysoftWare\\class\\test37\\test37\\test37.1.c",
+              "RelativeDocumentMoniker": "test37\\test37.1.c",
+              "ToolTip": "D:\\MysoftWare\\class\\test37\\test37\\test37.1.c",
+              "RelativeToolTip": "test37\\test37.1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-01T07:04:25.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test37.c",
+              "DocumentMoniker": "D:\\MysoftWare\\class\\test37\\test37\\test37.c",
+              "RelativeDocumentMoniker": "test37\\test37.c",
+              "ToolTip": "D:\\MysoftWare\\class\\test37\\test37\\test37.c",
+              "RelativeToolTip": "test37\\test37.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-01T05:53:38.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
