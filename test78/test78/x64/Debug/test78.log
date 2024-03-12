@@ -1,0 +1,3 @@
+﻿  test78.c
+D:\MysoftWare\class\test78\test78\test78.c(97,14): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  test78.vcxproj -> D:\MysoftWare\class\test78\x64\Debug\test78.exe
