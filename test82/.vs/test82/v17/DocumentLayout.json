@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MysoftWare\\class\\test82\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCC9EB-F2DF-4A9D-9FA5-8F2780802F4A}|test82\\test82.vcxproj|D:\\MysoftWare\\class\\test82\\test82\\test82.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53BCC9EB-F2DF-4A9D-9FA5-8F2780802F4A}|test82\\test82.vcxproj|solutionrelative:test82\\test82.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test82.c",
+              "DocumentMoniker": "D:\\MysoftWare\\class\\test82\\test82\\test82.c",
+              "RelativeDocumentMoniker": "test82\\test82.c",
+              "ToolTip": "D:\\MysoftWare\\class\\test82\\test82\\test82.c",
+              "RelativeToolTip": "test82\\test82.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-13T04:44:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
